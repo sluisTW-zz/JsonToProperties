@@ -1,0 +1,28 @@
+c:\Projects\AtualizaProperties\Atualiza Properties\Atualiza Properties\bin\Debug\Atualiza Properties.exe.config
+c:\Projects\AtualizaProperties\Atualiza Properties\Atualiza Properties\bin\Debug\Atualiza Properties.exe
+c:\Projects\AtualizaProperties\Atualiza Properties\Atualiza Properties\bin\Debug\Atualiza Properties.pdb
+c:\Projects\AtualizaProperties\Atualiza Properties\Atualiza Properties\obj\Debug\Atualiza Properties.csprojResolveAssemblyReference.cache
+c:\Projects\AtualizaProperties\Atualiza Properties\Atualiza Properties\obj\Debug\Atualiza_Properties.Form1.resources
+c:\Projects\AtualizaProperties\Atualiza Properties\Atualiza Properties\obj\Debug\Atualiza_Properties.Properties.Resources.resources
+c:\Projects\AtualizaProperties\Atualiza Properties\Atualiza Properties\obj\Debug\Atualiza Properties.csproj.GenerateResource.cache
+c:\Projects\AtualizaProperties\Atualiza Properties\Atualiza Properties\obj\Debug\Atualiza Properties.csproj.CoreCompileInputs.cache
+c:\Projects\AtualizaProperties\Atualiza Properties\Atualiza Properties\obj\Debug\Atualiza Properties.exe
+c:\Projects\AtualizaProperties\Atualiza Properties\Atualiza Properties\obj\Debug\Atualiza Properties.pdb
+c:\Projects\AtualizaProperties\Atualiza Properties\Atualiza Properties\bin\Debug\Newtonsoft.Json.dll
+c:\Projects\AtualizaProperties\Atualiza Properties\Atualiza Properties\bin\Debug\Newtonsoft.Json.xml
+c:\Projects\AtualizaProperties\Atualiza Properties\Atualiza Properties\obj\Debug\Atualiza Properties.csproj.CopyComplete
+c:\Projects\AtualizaProperties\Atualiza Properties\Atualiza Properties\bin\Debug\Daishi.Microservices.Components.Serialisation.dll
+C:\Projects\localizaProperties\Atualiza Properties\Atualiza Properties\bin\Debug\Atualiza Properties.exe.config
+C:\Projects\localizaProperties\Atualiza Properties\Atualiza Properties\bin\Debug\Atualiza Properties.exe
+C:\Projects\localizaProperties\Atualiza Properties\Atualiza Properties\bin\Debug\Atualiza Properties.pdb
+C:\Projects\localizaProperties\Atualiza Properties\Atualiza Properties\bin\Debug\Daishi.Microservices.Components.Serialisation.dll
+C:\Projects\localizaProperties\Atualiza Properties\Atualiza Properties\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\localizaProperties\Atualiza Properties\Atualiza Properties\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\localizaProperties\Atualiza Properties\Atualiza Properties\obj\Debug\Atualiza Properties.csprojResolveAssemblyReference.cache
+C:\Projects\localizaProperties\Atualiza Properties\Atualiza Properties\obj\Debug\Atualiza_Properties.Form1.resources
+C:\Projects\localizaProperties\Atualiza Properties\Atualiza Properties\obj\Debug\Atualiza_Properties.Properties.Resources.resources
+C:\Projects\localizaProperties\Atualiza Properties\Atualiza Properties\obj\Debug\Atualiza Properties.csproj.GenerateResource.cache
+C:\Projects\localizaProperties\Atualiza Properties\Atualiza Properties\obj\Debug\Atualiza Properties.csproj.CoreCompileInputs.cache
+C:\Projects\localizaProperties\Atualiza Properties\Atualiza Properties\obj\Debug\Atualiza Properties.csproj.CopyComplete
+C:\Projects\localizaProperties\Atualiza Properties\Atualiza Properties\obj\Debug\Atualiza Properties.exe
+C:\Projects\localizaProperties\Atualiza Properties\Atualiza Properties\obj\Debug\Atualiza Properties.pdb
